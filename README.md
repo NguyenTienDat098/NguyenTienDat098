@@ -10,6 +10,7 @@
 - 📫 How to reach me **dat61222@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)"/>
 <p align="left">
 <a href="https://fb.com/tiendat2442004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tiendat2442004" height="30" width="40" /></a>
 </p>
